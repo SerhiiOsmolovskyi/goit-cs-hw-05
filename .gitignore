@@ -1,0 +1,17 @@
+# Віртуальне середовище
+venv/
+ENV/
+env/
+
+# Файли Python кешу
+__pycache__/
+*.py[cod]
+
+# Логи
+*.log
+
+# Файли налаштувань IDE (наприклад, VSCode)
+.vscode/
+
+# MacOS специфічні файли
+.DS_Store
